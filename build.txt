@@ -1,6 +1,5 @@
 WebApp_Dev_Docker_AWS
 RestApi_Dev_Docker_AWS
-AWS_TestRunBean_Dev
 TestExecutionRunInfoPublisher_Dev_Docker_AWS
 TestExecutorSelenium4_Dev_Docker_AWS
 TestMetaDataRetrivalJob_Dev_Docker_AWS
