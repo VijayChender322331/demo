@@ -1,30 +1,30 @@
-26
-153
-86
-32
-18
-111
-17
-1744
-35
-17
-25
-12
-28
-23
-37
-86
-5
-33
-24
-33
-28
-11
-35
-19
-19
-8
-13
-27
-22
-19
+AWS_CommonDataSharing_Staging	26
+WebApp_Staging_Docker_AWS	153
+RestApi_Staging_Docker_AWS	86
+AWS_TestRunBean_Staging	32
+TestExecutionRunInfoPublisher_Staging_Docker_AWS	18
+TestExecutorSelenium4_Staging_Docker_AWS	111
+TestMetaDataRetrivalJob_Staging_Docker_AWS	17
+Update_Dependency_Staging	1744
+AutoscaleService_Staging_Docker_AWS	35
+TestMetaDataRetrivalService_Staging_Docker_AWS	17
+eureQAGlobalCache_Staging_Docker_AWS	25
+TestExecutionAssetInfoPublisher_Staging_Docker_AWS	12
+TestExecutionStatusInfoPublisher_Staging_Docker_AWS	28
+TestRunCassandraDBSync_Staging_Docker_AWS	23
+EmailRequestService_Staging_Docker_AWS	37
+RestApi_Staging_Docker_AWS	86
+AWS_WSConnectUtility_Staging	5
+ECPBrowserUpdateJob_Staging_Docker_AWS	33
+eureQaCommandsApi_Staging_Docker_AWS	24
+ECPBrowserUpdateJob_Staging_Docker_AWS	33
+AnalyticsRestApi_Staging_Docker_AWS	28
+AutoscaleJob_Staging_Docker_AWS	11
+AutoscaleService_Staging_Docker_AWS	35
+ECPAssetsJob_Staging_Docker_AWS	19
+SelenoidAutoscaleJob_Staging_Docker_AWS	19
+SelenoidConsumer_Staging_Docker_AWS	8
+SlackDBConsumer_Staging_Docker_AWS	13
+TestExecutionScheduleJob_Staging_Docker_AWS	27
+TestExecutionScheduler_Staging_Docker_AWS	22
+CassandraAssetsBatchJob_Staging_Docker_AWS	19
